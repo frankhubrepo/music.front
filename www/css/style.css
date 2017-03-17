@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+
+.centered-spinner{
+	width: 100px;
+	height:100px;
+	position: absolute;
+	margin-left: 50%;
+	margin-top: 35%;
+}
